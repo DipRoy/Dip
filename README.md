@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dip roy</h1>
+<h1 align="center">Hi 👋, I'm Dip Roy</h1>
 <h3 align="center">A passionate Computer engineer from bangladesh.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
