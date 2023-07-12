@@ -3,7 +3,15 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diproy&label=Profile%20views&color=0e75b6&style=flat" alt="diproy" /> </p>
+    I am a recent graduate in Computer Science and Engineering from North South University.   I am currently working as a research assistant at the Cyber-Physical Systems Research Lab of North South University. Throughout my academic journey, I have gained expertise in various programming languages such as C, C++, Python, and Java. Additionally, I have a strong foundation in the fields of Problem Solving, Deep Learning, Machine Learning, and Natural Language Processing. I am passionate about applying my skills and knowledge to real-world challenges and contributing to meaningful research and development projects. I am eager to explore opportunities where I can utilize my expertise to make valuable contributions in areas such as deep learning, natural Language Processing, and software development.
+</p>
+
+
+Skills: C / Python / Machine Learning / Deep Learning / Natural Language Processing / DJANGO
+
 
 - 📫 How to reach me **roydip901@gmail.com**
 
